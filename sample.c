@@ -6,5 +6,9 @@ int main() {
 	printf("hello nibba");
         printf("mauricethegoat");
 	printf("github");
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 }	
 
